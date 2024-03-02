@@ -1,0 +1,7 @@
+langchain
+openai
+astrapy
+PyPDF2
+langchain-openai
+langchain-astradb
+dotenv
